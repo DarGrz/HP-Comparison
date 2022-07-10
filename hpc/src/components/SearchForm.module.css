@@ -1,0 +1,16 @@
+.searchform {
+  display: flex;
+  justify-content: center;
+  background: #999;
+  width: 50%;
+  margin: 10px;
+  padding: 10px;
+}
+
+input,
+label,
+select {
+  margin: 2px;
+}
+
+@media (max-width: );

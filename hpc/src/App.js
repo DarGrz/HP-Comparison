@@ -1,9 +1,13 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Baner from "./components/baner/baner";
+import SearchForm from "./components/SearchForm";
 
 function App() {
-  return <Baner />;
+  return (
+    <div className="main">
+      <SearchForm />
+    </div>
+  );
 }
 
 export default App;
