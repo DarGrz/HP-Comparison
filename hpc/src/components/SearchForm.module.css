@@ -1,8 +1,9 @@
 .searchform {
   display: flex;
   justify-content: center;
+  align-items: center;
   background: #999;
-  width: 50%;
+  width: 90%;
   margin: 10px;
   padding: 10px;
 }
