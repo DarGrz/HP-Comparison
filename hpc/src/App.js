@@ -1,11 +1,9 @@
-import logo from "./logo.svg";
-import "./App.css";
-import SearchForm from "./components/SearchForm";
+import SearchBar from "./components/SearchBar";
 
 function App() {
   return (
     <div className="main">
-      <SearchForm />
+      <SearchBar />
     </div>
   );
 }
